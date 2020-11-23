@@ -1,0 +1,278 @@
+
+@media screen and (max-width: 768px) {
+
+    #esquerda {
+        opacity: 0;
+    }
+
+    #arruma {
+        display: inline;
+        color: black;
+
+        position: relative;
+        top: 80px;
+        left: -180px;
+    }
+
+    #fim_topo label, #fim_topo section a {
+        margin-top: 10px;
+        color: black;
+    }
+
+    .login {
+        width: 130px;
+    }
+
+    #direita {
+
+        position: relative;
+        top: 50px;
+        left: -455px;
+    }
+
+    .decora {
+        display: flex;
+
+    }
+    .decora a {
+        display: flex;
+
+    }
+
+    #sp {
+        position: relative;
+        top: 0px;
+        left: 5px;
+    }
+
+
+
+}
+
+body {
+    background: rgb(247, 244, 244);
+
+}
+
+#container {
+
+}
+
+#painel {
+    background-color: rgb(62, 84, 124);
+    height: 80px;
+
+}
+
+#logo {
+    position: relative;
+    top: 20%;
+    left: 15%;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: unset;
+    color: white;
+
+}
+
+#login {
+    font-size: 12px;
+    font-family: unset;
+    color: white;
+    position: relative;
+    left: 55%;
+    top: -56%;
+
+
+
+
+
+}
+
+.login {
+    margin-left: 15px;
+    margin-top: 4px;
+    background-color: rgb(245, 245, 185);
+    position: relative;
+    left: -10%;
+    border: none;
+}
+
+.login:focus {
+    outline: 1px solid white;
+}
+
+#fim_topo{
+    font-size: 11px;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 1.4%;
+
+
+}
+
+#check_txt {
+    position: relative;
+    top: 3px;
+    cursor: pointer;
+}
+
+#check_txt:hover {
+    position: relative;
+    left: 1px;
+}
+
+#new {
+    position: relative;
+    top: -21px;
+    left: 148px;
+    padding-left: 5px;
+}
+
+#fim_topo a {
+    text-decoration: none;
+    color: white;
+}
+
+#fim_topo a:hover {
+    position: relative;
+    left: 1px;
+}
+
+#btnSubmit:hover, #btnSubmit:active {
+    position: relative;
+    top: 1px;
+    outline: 1px solid white;
+}
+
+#container_tudo {
+    max-width: 100%;
+    max-height: 100%;
+
+    display: flex;
+    flex-direction: row;
+}
+
+#esquerda {
+    max-width: 550px;
+    width: 550px;
+    margin: 50px 130px 10px 50px;
+}
+
+#direita {
+    margin: 50px 0px 0px 0px;
+    max-width: 550px;
+    max-height: 500px;
+
+}
+
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 5px;
+
+}
+
+.txt_form {
+    margin-top: 12px;
+}
+
+.decora input, .decora select {
+    width: 60px;
+    height: 40px;
+}
+
+.decora a {
+    color: gray;
+    font-family: unset;
+    text-decoration: none;
+    margin-left: 8px;
+    font-size: small;
+    position: relative;
+    top: -9px;
+}
+
+.decora span {
+    position: relative;
+    top: 20px;
+    left: -36.5%;
+}
+
+.radio {
+    font-weight: 500;
+    margin: 15px 0px 0px 8px;
+
+}
+
+.ma {
+    margin-left: 15px;
+}
+
+.termos {
+    font-size: small;
+}
+
+.termos a {
+    text-decoration: none;
+    font-weight: 400;
+
+
+}
+
+#btn {
+    margin-top: 15px;
+}
+
+#btn button {
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: bold;
+    font-family: monospace;
+    border: 1px solid grey;
+    border-radius: 4px;
+    width: 163px;
+    height: 30px;
+    background: linear-gradient(to bottom, rgb(90, 155, 90), rgb(53, 100, 53))
+}
+
+
+#btn button:hover, #btn button:active {
+    outline: 1px solid white;
+    position: relative;
+    top: 1px;
+}
+
+#logo a:hover, #logo a:active {
+    position: relative;
+    left: 1px;
+}
+
+.txt_cont {
+    position: relative;
+    top: -30%;
+    left: 55%;
+}
+
+#img {
+    position: relative;
+    top: 65px;
+    left: 22%;
+    box-shadow: 0px 0.5px 0px 0px rgb(196, 196, 196);
+}
+
+#esquerda button {
+    background: linear-gradient(to bottom, rgb(236, 236, 236), rgb(221, 221, 221));
+    position: relative;
+    top: 40px;
+    left: -15%;
+    font-weight: 500;
+    text-align: center;
+    border: 1px solid gray;
+    height: 25px;
+}
+
+#mobile:hover, #mobile:active {
+
+
+    outline: 1px solid rgb(104, 163, 187);
+}
