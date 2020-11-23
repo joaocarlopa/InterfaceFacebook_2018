@@ -1,9 +1,15 @@
 # InterfaceFacebook_2018 <img src='https://img.shields.io/static/v1?label=build&message=Facebook&color=blue'>
 
-       Reecriando a interface do Facebook do ano de 2018.
+      Reecriando a interface do Facebook do ano de 2018.
+
+Windows:
                           
  <img src='https://github.com/joaocarlopa/InterfaceFacebook_2018/blob/main/read.png'>
  
+Mobile: 
+
+
+  
  
  
  # Construção <img src='https://img.shields.io/static/v1?label=HTML&message=CSS&color=blue'>
