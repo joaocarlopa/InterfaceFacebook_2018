@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "outDir": "./frontend/assets/js",
+      "noImplicitAny": true,
+      "module": "commonjs",
+      "lib": ["ESNext", "DOM" ],
+      "target": "es5",
+      "jsx": "react",
+      "allowJs": true
+    }
+  }
+
