@@ -4,6 +4,10 @@
     #esquerda {
         opacity: 0;
     }
+    
+    #btn {
+        justify-content: center;
+    }
 
     #arruma {
         display: inline;
